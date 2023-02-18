@@ -2,7 +2,7 @@
 /**
 * main - Entry point
 * prints all the numbers of base 16 in lowercase, followed by a new line.
-* Result: Always a success
+* Return: Always a success
 */
 int main(void)
 {
